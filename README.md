@@ -2,7 +2,7 @@
 
 *A piece of cake CLI for terminal Excel file merging*
 
-> Combine your `.xlsx` files into a single, clean, deduplicated CSV — in one line. Simple, just like data prep should be.
+Combine your `.xlsx` files into a single, clean, deduplicated CSV — in one line. Simple, just like data prep should be.
 
 
 ## 🚀 What is it?
